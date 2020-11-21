@@ -9,7 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-
+/Temp/
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+UIBag_unity/Library/metadata/01/013b11fce9d144361ab73f72c7c002bb
+UIBag_unity/Temp/
+packMoreItems/packMoreItems/Library/

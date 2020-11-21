@@ -1,0 +1,54 @@
+{
+	"info": [
+	{
+			"id": 1,
+			"itemInfo": {
+				"id": 3,
+				"num": 10
+			},
+			"priceType": 1,
+			"price": 1000,
+			"tips": "加血、便宜"
+		},
+		{
+			"id": 2,
+			"itemInfo": {
+				"id": 4,
+				"num": 10
+			},
+			"priceType": 1,
+			"price": 1000,
+			"tips": "加蓝、便宜"
+		},
+		{
+			"id": 3,
+			"itemInfo": {
+				"id": 5,
+				"num": 99
+			},
+			"priceType": 2,
+			"price": 999,
+			"tips": "强化武器"
+		},
+		{
+			"id": 4,
+			"itemInfo": {
+				"id": 6,
+				"num": 99
+			},
+			"priceType": 2,
+			"price": 999,
+			"tips": "强化防具"
+		},
+		{
+			"id": 5,
+			"itemInfo": {
+				"id": 2,
+				"num": 1
+			},
+			"priceType": 1,
+			"price": 999,
+			"tips": "强化防具"
+		}
+	]
+}

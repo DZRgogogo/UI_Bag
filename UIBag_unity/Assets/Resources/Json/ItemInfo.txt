@@ -1,0 +1,51 @@
+{
+	"info": [{
+		"id": 1,
+		"name": "匕首",
+		"icon": 1,
+		"equipType":3,
+		"type": 2,
+		"price": 100,
+		"tips": "锋利的刀"
+	}, {
+		"id": 2,
+		"name": "头盔",
+		"icon": 2,
+		"equipType":1,
+		"type": 2,
+		"price": 150,
+		"tips": "增加防御"
+	}, {
+		"id": 3,
+		"name": "红药",
+		"equipType":0,
+		"icon": 3,
+		"type": 1,
+		"price": 10,
+		"tips": "回血装备"
+	}, {
+		"id": 4,
+		"name": "蓝药",
+		"equipType":0,
+		"icon": 4,
+		"type": 1,
+		"price": 10,
+		"tips": "回蓝装备"
+	}, {
+		"id": 5,
+		"name": "红宝石",
+		"equipType":0,
+		"icon": 5,
+		"type": 3,
+		"price": 999,
+		"tips": "价值高，红色"
+	},{
+		"id": 6,
+		"name": "蓝宝石",
+		"equipType":0,
+		"icon": 6,
+		"type": 3,
+		"price": 999,
+		"tips": "价值高，蓝色"
+	}]
+}
